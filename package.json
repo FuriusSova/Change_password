@@ -1,0 +1,15 @@
+{
+  "name": "changepassword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": " <dsova2004@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.7.0",
+    "puppeteer": "^19.5.2"
+  }
+}
