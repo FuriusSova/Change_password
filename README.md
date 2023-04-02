@@ -7,5 +7,6 @@ How to use the app:
 The application will change all passwords of the listed accounts to randomly generated passwordsa and put the updated accounts in the same txt file.
 
 Correct format of accounts in the txt:
+
 email address;random symbols;password
 
